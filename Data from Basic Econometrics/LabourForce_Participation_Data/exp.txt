@@ -1,0 +1,11 @@
+Source: Economic Report of President, 1997
+CLFPRM: Civilian labor force participation rate, male(%)
+CLFPRF: Civilian labor force participation rate, female(%)
+UNRM: Civilian unemployment rate, male(%)
+UNRF: Civilian unemployment rate, female(%)
+AHE82: Average hourly earnings (1982 dollars)
+AHE: Average hourly earnings(1997 dollars)
+
+Extracted from Basic Econometerics by Damodar N Gujarati
+
+Chapter 2
