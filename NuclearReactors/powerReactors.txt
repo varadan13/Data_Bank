@@ -1,0 +1,11 @@
+
+
+nOR: NO OF OPERATIONAL REACTORS NO - units
+NC: NET CAPACITY - unit in MW(e)
+nRC: NO OF REACTORS UNDER CONSTRUCTION
+NES2019: NUCLEAR ELECTRICITY SUPPLIED IN 2019
+SHARE: % of ELECTRICITY PRODUCED VIA NUCLEAR
+
+The total includes the following data from Taiwan, China:				
+    — 4 units, 3844 MW(e) in operation; 2 units, 2600 MW(e) under construction;				
+    — 31.1 TW·h of nuclear electricity generation, representing 13.4% of the total electricity generated there.				
