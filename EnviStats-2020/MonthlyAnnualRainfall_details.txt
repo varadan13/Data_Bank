@@ -1,7 +1,0 @@
-Data Collected from: EnviStats India 2020 Vol1 - Environment Statistics 
-Original Source of Data: India Meteorlogical Department Ministry of Earth
-Website of the source: http://mospi.nic.in/publication/envistats-india-2020-vol-1-environment-statistics
-Data Collected on: 30-11-2020
-Time: 10.56 IST
-Additional infomation:
-		-Units in millimetre
